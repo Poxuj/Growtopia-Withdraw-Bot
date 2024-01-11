@@ -1,0 +1,5 @@
+Start Withdraw:
+http://127.0.0.1:5411/withdraw.php?RGTGrowID=sweatwallets&DLAmount=0&WLAmount=0&BotGrowID=wmakexvwcawd&BotPassword=Hungrig22@&BotWorld=few9ud2&GameVersion=4.45&SaveWorld=testingmodiz&SaveDoorID=gabriele198&WebUser=WebUser&apikey=modiz-withdraw
+
+End Withdraw:
+http://127.0.0.1:5411/disconnect.php?apikey=modiz-withdraw&WebUser=Webuser
