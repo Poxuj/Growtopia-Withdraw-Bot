@@ -11,7 +11,7 @@ Info
 ======================================================================================
 4 - The bot should connect. I got a Withdraw Bot that supports socks5, if you got shadow banned - DM in Discord: cristallise and I'll give you the one that supports socks5.
 ======================================================================================
-5 - How the save world should look like: IMG_3497 (1).
+5 - How the save world should look like: ![Here]([IMG_3497 (1)](https://private-user-images.githubusercontent.com/77518855/296006820-0c2782ee-aa4b-4e6f-8538-331943fa2017.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUwMDI0NzMsIm5iZiI6MTcwNTAwMjE3MywicGF0aCI6Ii83NzUxODg1NS8yOTYwMDY4MjAtMGMyNzgyZWUtYWE0Yi00ZTZmLTg1MzgtMzMxOTQzZmEyMDE3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTExVDE5NDI1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdjYTlkNzExZDU1YWZlZThiM2M3MzhiNDYxZmU5YTY1ZWRmZmNkM2Q5YWFiY2U4YjJkYmRlNDg3NmE4OWY1NzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KLDazPW4tYTHrR8ScByYs5QnFEc-0sGhqRftGmDPIpI).
 ======================================================================================
 Can't Connect To Growtopia?
 Check if the game_version matches with the rgt version in the api and config.json
