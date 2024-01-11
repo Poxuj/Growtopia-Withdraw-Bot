@@ -13,7 +13,7 @@ Growtopia Withdraw Bot
 5 - How the save world should look like:
 
 # Can't Connect To Growtopia?
-======================================================================================
+
 Check if the game_version matches with the rgt version in the api and config.json
 Check if WithdrawBot.exe has access to firewall 5411 port.
 ======================================================================================
