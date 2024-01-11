@@ -21,7 +21,7 @@ Check if WithdrawBot.exe has access to firewall 5411 port.
 # Join our Discord server for further assistance: https://dsc.gg/incoding
 
 # Little Explanation On How The Withdraw Bot Functions:
-======================================================================================
+
 When you set the (BotWorld=) and (RGTGrowID=), the bot will check when the player enters the world. If the (RGTGrowID=) doesn't match with the one that was given, bot will ban them from the world, and if it matches, the player will drop wls/dls/bgls and the bot will auto-collect it. When you use http://127.0.0.1:5411/disconnect.php api in any browser, it will bring the bot into the save world and store it inside the safe vault. (1st safe vault is for bgls/dls/, 2nd safe vault is for wls).
 ------------------------------------------------
 IF WE GET 5 STARTS, I'LL UPLOAD THE DEPOSIT BOT!
