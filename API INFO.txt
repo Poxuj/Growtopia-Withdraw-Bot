@@ -1,5 +1,0 @@
-Start Withdraw:
-http://127.0.0.1:5411/withdraw.php?RGTGrowID=ExampleRealGrowID&DLAmount=0&WLAmount=0&BotGrowID=ExampleGrowID&BotPassword=ExamplePassword&BotWorld=ExampleWorld&GameVersion=4.45&SaveWorld=ExampleSaveWorld&SaveDoorID=ExampleDoorID&WebUser=WebUser&apikey=ExampleWebUser-withdraw
-
-End Withdraw:
-http://127.0.0.1:5411/disconnect.php?apikey=ExampleWebUser-withdraw&WebUser=Webuser
